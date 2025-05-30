@@ -1,6 +1,6 @@
 # Chandler Sarcasm AI Assistant (like.... Coould It Be Any Snaekier)
 
-This is a Chandler Bing-insoired voice assistent built with Python, Vosk (for offline speech recognition), and pyttsx3 (for text-ro-speech). It listens to your voice, decodes what you say, and hits you with responses dripping in sarcasm and sass — because why not?
+This is a Chandler Bing-inspired voice assistant built with Python, Vosk (for offline speech recognition), and pyttsx3 (for text-ro-speech). It listens to your voice, decodes what you say, and hits you with responses dripping in sarcasm and sass — because why not?
 
 ---
 
@@ -16,7 +16,7 @@ This is a Chandler Bing-insoired voice assistent built with Python, Vosk (for of
 
 ## Requriements
 
-Before running the assistnt, make sure to install the following:
+Before running the assistant, make sure to install the following:
 
 pip install vosk pyttsx3 sounddevice
 
